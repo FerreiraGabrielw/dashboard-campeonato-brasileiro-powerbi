@@ -1,7 +1,6 @@
 # Projeto: Dashboard Campeonato Brasileiro - Análise de Estatísticas de Futebol
 
 ![Thumbnail do Dashboard](quarto/capa.png)
-_Coloque aqui uma screenshot pequena e impactante do seu dashboard._
 
 ### ➡️ Análise Detalhada e Dashboard Interativo no Meu Portfólio:
 [Acesse a página completa do projeto aqui](https://ferreiragabrielw.github.io/portfolio-gabriel/projetos/Dashboards/7DadosCampeonatoBrasileiro/Projeto7DA.html)
